@@ -53,6 +53,7 @@ Based on [Call or SMS Contact](https://github.com/c-stephens/call_or_sms_contact
 - Open iMessage to send message to an auto-filled contact or number.
 - Send a message to a contact or number via iMessage from within Alfred.
 
-<p><b>Unsupported Workflow Functions</b></p>
+<p><b>Unsupported Workflow Functions:</b></p>
+
 - Cannot make calls to groups or multiple numbers.
 - Cannot send messages to group chats or multiple contacts.
