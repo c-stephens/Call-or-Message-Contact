@@ -1,62 +1,47 @@
 <p>A short stand-in to add calling and messaging support to for macOS 11 Big Sur and above. Searches through contacts in real time as you type. Excludes contacts with no number. Currently no way to select between multiple numbers for a single contact. Requires Alfred V4.<br></p>
 
-<p>Released under Apache License 2.0. If you modify this and use it in something splendid I'd appreciate a shout out.</p>
+<p>Released under Apache License 2.0. If you modify this and use it in something splendid I'd appreciate a shout out.
 
-<p>Based on [Call or SMS Contact](https://github.com/c-stephens/call_or_sms_contact) by @c-stephens and @amoose136. </p>
+Based on [Call or SMS Contact](https://github.com/c-stephens/call_or_sms_contact) by @c-stephens and @amoose136.
+</p>
+<br>
 
 <p><b>Usage:</b></p>
-<blockquote>
-<p>call Johnny Appleseed</p>
-</blockquote>
-<br>
 
-<blockquote>
-<p>tel Johnny Appleseed</p>
-</blockqute>
-<br>
+> call Johnny Appleseed
 
-<blockquote>
-<p>im Johnny Appleseed</p>
-</blockquote>
-<br>
+> tel Johnny Appleseed
 
-<blockquote>
-<p>msg Johnny Appleseed</p>
-</blockquote>
-<br>
+> im Johnny Appleseed
 
-<blockquote>
-<p>call&nbsp;555-3485</p>
-</blockquote>
-<br>
+> msg Johnny Appleseed
 
-<blockquote>
-<p>tel&nbsp;555-3485</p>
-</blockquote>
-<br>
+> call&nbsp;555-3485
 
-<blockquote>
-<p>im&nbsp;555-3485</p>
-</blockquote>
-<br>
+> tel&nbsp;555-3485
 
-<blockquote>
-<p>msg&nbsp;555-3485</p>
-</blockquote>
-<br>
+> im&nbsp;555-3485
+
+> msg&nbsp;555-3485
 
 <img src="/Screenshots/call.png">
 <br>
+
 <img src="/Screenshots/tel.png">
 <br>
+
 <img src="/Screenshots/im.png">
 <br>
+
 <img src="/Screenshots/msg1.png">
 <br>
+
 <img src="/Screenshots/msg2.png">
 <br>
+
 <img src="/Screenshots/Workflow1.png">
 <br>
+
 <img src="/Screenshots/Workflow2.png">
 <br>
 
